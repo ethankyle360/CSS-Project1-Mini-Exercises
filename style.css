@@ -1,0 +1,136 @@
+h1
+{
+    border: 5px solid red;
+}
+
+.cat
+{
+    background-color: black;
+}
+
+#dog
+{
+    color: white;
+    width: 25%;
+    text-align: center;
+    margin: auto;
+    padding: 100px 100px 100px 100px;
+}
+
+#mouse
+{
+    color: yellow;
+    border: 5px dashed blue;
+    width: 200px;
+    padding: 0px 100px 0px 0px;
+}
+
+#bird
+{
+    color: lightgreen;
+    border: 5px ridge green;
+    width: 50vw;
+    text-align: right;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 0px;
+    padding: 0px 100px 100px 0px;
+}
+
+#horse
+{
+    color: orange;
+    text-align: center;
+    padding: 100px 0px 0px 100px;
+}
+
+img
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 50%;
+}
+
+.computer-image
+{
+    border: 5px solid red;
+    /* width: 25%; */
+    height: 300px;
+    margin: auto;
+    width: 25%;
+}
+
+p
+{
+    font-size: 36px;
+    font-weight: bold;
+}
+
+p.changeFont
+{
+    color: green;
+}
+
+.changeFont
+{
+    color: darkblue;
+}
+
+#p3
+{
+    color: red;
+}
+
+h2
+{
+    font-size: 36px;
+    font-weight: bold;
+}
+
+#box1
+{
+    background-color: green;
+    width: 33%;
+}
+#box2
+{
+    background-color: yellow;
+    width: 33%;
+    margin: auto;
+}
+#box3
+{
+    background-color: red;
+    width: 33%;
+    display: block;
+}
+
+#img-1
+{
+    display: block;
+    height: 200px;
+    max-height: 200px;
+    width: 20%;
+    background-color: blue;
+    border: 5px solid red;
+}
+#img-2
+{
+    display: block;
+    height: 200px;
+    width: 20%;
+    background-color: green;
+    border: 5px solid red;
+    margin: auto;
+}
+#img-3
+{
+    display: block;
+    height: 200px;
+    width: 20%;
+    background-color: orange;
+    border: 5px solid red;
+    float: right;
+}
